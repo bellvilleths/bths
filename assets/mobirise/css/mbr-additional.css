@@ -15594,6 +15594,9 @@ body {
 .cid-rkZR89rK75 .mbr-figure-caption div B {
   color: #970b0b;
 }
+.cid-rkZR89rK75 .mbr-figure-caption div {
+  color: #970b0b;
+}
 .cid-rkZRF7gkQs {
   background: #767676;
   padding-top: 60px;
@@ -15670,7 +15673,7 @@ body {
   background: #767676;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: linear-gradient(0deg, #580c0c, #767676);
+  background: linear-gradient(0deg, #7e0808, #767676);
 }
 .cid-rkZTaxAToR .image-block {
   margin: auto;
@@ -15691,13 +15694,73 @@ body {
 .cid-rkZTaxAToR DIV {
   color: #761111;
 }
-.cid-rkib0u4YSy {
-  padding-top: 0px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/footer9-1432x206.png");
+.cid-rlEWKDe2iO {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #7e0808;
 }
-.cid-rkib0u4YSy .media-container-row .mbr-text {
-  color: #ffffff;
+@media (max-width: 767px) {
+  .cid-rlEWKDe2iO .content {
+    text-align: center;
+  }
+  .cid-rlEWKDe2iO .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rlEWKDe2iO .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rlEWKDe2iO .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rlEWKDe2iO .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rlEWKDe2iO .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rlEWKDe2iO .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rlEWKDe2iO .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.cid-rlEWKDe2iO .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rlEWKDe2iO .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rlEWKDe2iO .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rlEWKDe2iO .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rlEWKDe2iO .footer-lower .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
 }
 .cid-rjXF4o384u .navbar {
   padding: .5rem 0;
