@@ -46,7 +46,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 832,
+    "uniqCompNum": 838,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -123,7 +123,7 @@
         },
         {
           "_params": {
-            "HTMLCode": "<div class=\"container-fluid\">\n\n<div class=\"row\">\n<div class=\"pl-md-5 col-xs-10 col-md-6\">\n<h3 class=\"bg-lightgray text-center text-primary\">Bellville Technical High School Offers</h3>\n\n        <p class=\"bg-lightgray text-dark\"><li> Dual Medium Instruction in Afrikaans and English</li><li>Modern classrooms and Workshops;</li>\n\t\t<li>A Technical Focus with the Full range of Technical Subjects;</li>\n\t\t<li>Mathematics & Physical Science;</li><li>Engineering & Graphics Design;</li>\n\t\t<li>Small Classes in Spesialised Subjects;</li><li>Soccer-, Hockey and Rugby Fields, Athletic Tracks;</li>\n\t\t<li>Popular Cross-Country Track on the Premises;</li><li>World Class Indoor Cricket Practise Nets;</li>\n\t\t<li>Cultural Activities: Choir, Spelling Bee, Poetry, Arts & Crafts, Newspaper,  Debate and Photography</li>\n\t\t<li>Toyota Technical Educational Program (TTEP);</li><li>Partaking in the National Technical Skills Competitions;</li>\n\t\t<li>Extra-Curricular Projects:  Car Repair, Coding & Microbotics.</li></p></div>\n<div class=\"col-xs-10 col-md-6\"> \n<div class=\"embed-responsive embed-responsive-16by9\">\n        <iframe  src=\"https://www.youtube.com/embed/HAYbt3MHx0E?rel=0&showinfo=0\" width=\"100%\" frameborder=\"0\"  allowfullscreen=\"true\"></iframe>\n      </div>\n    </div>\n",
+            "HTMLCode": "<div class=\"container-fluid\">\n\n<div class=\"row\">\n<div class=\"pl-md-5 col-xs-10 col-md-6\">\n<h3 class=\"bg-lightgray text-center text-primary\">Bellville Technical High School Offers</h3>\n\n        <p class=\"bg-lightgray text-dark\">\n<ul>\n<li style=\"list-style-position:outside\"> Dual Medium Instruction in Afrikaans and English</li><li>Modern classrooms and Workshops;</li>\n\t\t<li>A Technical Focus with the Full range of Technical Subjects;</li>\n\t\t<li>Mathematics & Physical Science;</li><li>Engineering & Graphics Design;</li>\n\t\t<li>Small Classes in Spesialised Subjects;</li><li>Soccer-, Hockey and Rugby Fields, Athletic Tracks;</li>\n\t\t<li>Popular Cross-Country Track on the Premises;</li><li>World Class Indoor Cricket Practise Nets;</li>\n\t\t<li>Cultural Activities: Choir, Spelling Bee, Poetry, Arts & Crafts, Newspaper,  Debate and Photography</li>\n\t\t<li>Toyota Technical Educational Program (TTEP);</li><li>Partaking in the National Technical Skills Competitions;</li>\n\t\t<li>Extra-Curricular Projects:  Car Repair, Coding & Microbotics.</li>\n</ul>\n</p></div>\n<div class=\"col-xs-10 col-md-6\"> \n<div class=\"embed-responsive embed-responsive-16by9\">\n        <iframe  src=\"https://www.youtube.com/embed/HAYbt3MHx0E?rel=0&showinfo=0\" width=\"100%\" frameborder=\"0\"  allowfullscreen=\"true\"></iframe>\n      </div>\n    </div>\n",
             "hideOnPublish": false,
             "paddingTop": "4",
             "paddingBottom": "0",
@@ -136,7 +136,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<div class=\"container-fluid\">\n\n<div class=\"row\">\n<div class=\"pl-md-5 col-xs-10 col-md-6\">\n<h3 class=\"bg-lightgray text-center text-primary\">Bellville Technical High School Offers</h3>\n\n        <p class=\"bg-lightgray text-dark\"><li> Dual Medium Instruction in Afrikaans and English</li><li>Modern classrooms and Workshops;</li>\n\t\t<li>A Technical Focus with the Full range of Technical Subjects;</li>\n\t\t<li>Mathematics & Physical Science;</li><li>Engineering & Graphics Design;</li>\n\t\t<li>Small Classes in Spesialised Subjects;</li><li>Soccer-, Hockey and Rugby Fields, Athletic Tracks;</li>\n\t\t<li>Popular Cross-Country Track on the Premises;</li><li>World Class Indoor Cricket Practise Nets;</li>\n\t\t<li>Cultural Activities: Choir, Spelling Bee, Poetry, Arts & Crafts, Newspaper,  Debate and Photography</li>\n\t\t<li>Toyota Technical Educational Program (TTEP);</li><li>Partaking in the National Technical Skills Competitions;</li>\n\t\t<li>Extra-Curricular Projects:  Car Repair, Coding & Microbotics.</li></p></div>\n<div class=\"col-xs-10 col-md-6\"> \n<div class=\"embed-responsive embed-responsive-16by9\">\n        <iframe  src=\"https://www.youtube.com/embed/HAYbt3MHx0E?rel=0&showinfo=0\" width=\"100%\" frameborder=\"0\"  allowfullscreen=\"true\"></iframe>\n      </div>\n    </div>\n",
+          "HTMLCode": "<div class=\"container-fluid\">\n\n<div class=\"row\">\n<div class=\"pl-md-5 col-xs-10 col-md-6\">\n<h3 class=\"bg-lightgray text-center text-primary\">Bellville Technical High School Offers</h3>\n\n        <p class=\"bg-lightgray text-dark\">\n<ul>\n<li style=\"list-style-position:outside\"> Dual Medium Instruction in Afrikaans and English</li><li>Modern classrooms and Workshops;</li>\n\t\t<li>A Technical Focus with the Full range of Technical Subjects;</li>\n\t\t<li>Mathematics & Physical Science;</li><li>Engineering & Graphics Design;</li>\n\t\t<li>Small Classes in Spesialised Subjects;</li><li>Soccer-, Hockey and Rugby Fields, Athletic Tracks;</li>\n\t\t<li>Popular Cross-Country Track on the Premises;</li><li>World Class Indoor Cricket Practise Nets;</li>\n\t\t<li>Cultural Activities: Choir, Spelling Bee, Poetry, Arts & Crafts, Newspaper,  Debate and Photography</li>\n\t\t<li>Toyota Technical Educational Program (TTEP);</li><li>Partaking in the National Technical Skills Competitions;</li>\n\t\t<li>Extra-Curricular Projects:  Car Repair, Coding & Microbotics.</li>\n</ul>\n</p></div>\n<div class=\"col-xs-10 col-md-6\"> \n<div class=\"embed-responsive embed-responsive-16by9\">\n        <iframe  src=\"https://www.youtube.com/embed/HAYbt3MHx0E?rel=0&showinfo=0\" width=\"100%\" frameborder=\"0\"  allowfullscreen=\"true\"></iframe>\n      </div>\n    </div>\n",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
@@ -855,7 +855,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Sport",
-        "order": 61
+        "order": 57
       },
       "components": [
         {
@@ -1521,7 +1521,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Academic",
-        "order": 62
+        "order": 58
       },
       "components": [
         {
@@ -2251,7 +2251,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Events",
-        "order": 58
+        "order": 54
       },
       "components": [
         {
@@ -2665,7 +2665,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Contact us",
-        "order": 57
+        "order": 53
       },
       "components": [
         {
@@ -3401,7 +3401,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Culture",
-        "order": 60
+        "order": 56
       },
       "components": [
         {
@@ -3947,7 +3947,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Achievements",
-        "order": 56
+        "order": 52
       },
       "components": []
     },
@@ -3955,7 +3955,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Overview",
-        "order": 55
+        "order": 51
       },
       "components": [
         {
@@ -4726,7 +4726,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Science1",
-        "order": 54
+        "order": 50
       },
       "components": [
         {
@@ -5165,7 +5165,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Technical",
-        "order": 53
+        "order": 49
       },
       "components": [
         {
@@ -5723,7 +5723,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Mathematics",
-        "order": 52
+        "order": 48
       },
       "components": [
         {
@@ -6194,7 +6194,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Languages",
-        "order": 51
+        "order": 47
       },
       "components": [
         {
@@ -6708,7 +6708,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Science",
-        "order": 50
+        "order": 46
       },
       "components": [
         {
@@ -7208,7 +7208,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "MediaEvents",
-        "order": 49
+        "order": 45
       },
       "components": [
         {
@@ -7875,7 +7875,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Facebook",
-        "order": 48
+        "order": 44
       },
       "components": [
         {
@@ -8335,7 +8335,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Gallery",
-        "order": 47
+        "order": 43
       },
       "components": [
         {
@@ -9773,7 +9773,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "techmaths",
-        "order": 46
+        "order": 42
       },
       "components": [
         {
@@ -10189,7 +10189,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "maths",
-        "order": 45
+        "order": 41
       },
       "components": [
         {
@@ -10605,7 +10605,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "lifescience",
-        "order": 44
+        "order": 40
       },
       "components": [
         {
@@ -11021,7 +11021,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "physscience",
-        "order": 43
+        "order": 39
       },
       "components": [
         {
@@ -11609,7 +11609,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "techscience",
-        "order": 42
+        "order": 38
       },
       "components": [
         {
@@ -12199,7 +12199,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "powersystems",
-        "order": 41
+        "order": 37
       },
       "components": [
         {
@@ -12898,7 +12898,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "automotive",
-        "order": 40
+        "order": 36
       },
       "components": [
         {
@@ -13597,7 +13597,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Welding",
-        "order": 39
+        "order": 35
       },
       "components": [
         {
@@ -14038,7 +14038,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "fittingmaching",
-        "order": 38
+        "order": 34
       },
       "components": [
         {
@@ -14737,7 +14737,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "EGD",
-        "order": 37
+        "order": 33
       },
       "components": [
         {
@@ -15178,7 +15178,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Construction",
-        "order": 36
+        "order": 32
       },
       "components": [
         {
@@ -15619,7 +15619,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Woodworking",
-        "order": 35
+        "order": 31
       },
       "components": [
         {
@@ -16060,7 +16060,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "Page 30",
-        "order": 33
+        "order": 29
       },
       "components": [
         {
@@ -16524,7 +16524,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Planning",
-        "order": 34
+        "order": 30
       },
       "components": [
         {
@@ -16988,7 +16988,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Staff",
-        "order": 32
+        "order": 28
       },
       "components": [
         {
@@ -17706,7 +17706,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "highlights",
-        "order": 31
+        "order": 27
       },
       "components": [
         {
@@ -18170,7 +18170,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Publications",
-        "order": 59
+        "order": 55
       },
       "components": [
         {
@@ -18735,7 +18735,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Newspaper",
-        "order": 30
+        "order": 26
       },
       "components": [
         {
@@ -19283,7 +19283,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Circular",
-        "order": 29
+        "order": 25
       },
       "components": [
         {
@@ -19745,7 +19745,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Podradio",
-        "order": 27
+        "order": 24
       },
       "components": [
         {
@@ -20772,7 +20772,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "terrainplan",
-        "order": 26
+        "order": 23
       },
       "components": [
         {
@@ -21257,7 +21257,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Achievements",
-        "order": 25
+        "order": 22
       },
       "components": [
         {
@@ -21894,7 +21894,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "conduct",
-        "order": 24
+        "order": 21
       },
       "components": [
         {
@@ -22929,7 +22929,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Facebook",
-        "order": 23
+        "order": 20
       },
       "components": [
         {
@@ -23414,7 +23414,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "downloads",
-        "order": 22
+        "order": 19
       },
       "components": [
         {
@@ -23912,6 +23912,7 @@
           "_params": {}
         },
         {
+          "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
@@ -23921,19 +23922,79 @@
             "& when (@bg-type = 'color')": {
               "background-color": "@bg-value"
             },
-            ".media-container-row .mbr-text": {
-              "color": "#ffffff"
+            ".content": {
+              "@media (max-width: 767px)": {
+                "text-align": "center",
+                "> div:not(:last-child)": {
+                  "margin-bottom": "2rem"
+                }
+              }
+            },
+            ".media-wrap": {
+              "@media (max-width: 767px)": {
+                "margin-bottom": "1rem"
+              },
+              ".mbr-iconfont-logo": {
+                "font-size": "7.5rem",
+                "color": "#f36"
+              },
+              "img": {
+                "height": "6rem"
+              }
+            },
+            ".footer-lower": {
+              ".copyright": {
+                "@media (max-width: 767px)": {
+                  "margin-bottom": "1rem",
+                  "text-align": "center"
+                }
+              },
+              "hr": {
+                "margin": "1rem 0",
+                "border-color": "#fff",
+                "opacity": ".05"
+              },
+              ".social-list": {
+                "padding-left": "0",
+                "margin-bottom": "0",
+                "list-style": "none",
+                "display": "flex",
+                "-webkit-flex-wrap": "wrap",
+                "flex-wrap": "wrap",
+                "-webkit-justify-content": "flex-end",
+                "justify-content": "flex-end",
+                ".mbr-iconfont-social": {
+                  "font-size": "1.3rem",
+                  "color": "#fff"
+                },
+                ".soc-item": {
+                  "margin": "0 .5rem"
+                },
+                "a": {
+                  "margin": "0",
+                  "opacity": ".5",
+                  "-webkit-transition": ".2s linear",
+                  "transition": ".2s linear",
+                  "&:hover": {
+                    "opacity": "1"
+                  }
+                },
+                "@media (max-width: 767px)": {
+                  "-webkit-justify-content": "center",
+                  "justify-content": "center"
+                }
+              }
             }
           },
-          "_name": "footer6",
-          "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/footer9-1432x206.png\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\"></p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_name": "footer1",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->  \n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked=\"\">\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected=\"\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\" checked=\"\">\n        <fieldset type=\"background\" name=\"bg\" parallax=\"\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/background5.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#7e0808\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay &amp;&amp; bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content text-white\">\n            <div class=\"col-12 col-md-3\">\n                <div class=\"media-wrap\">\n                    <a href=\"https://mobirise.co/\">\n                        <img src=\"@PROJECT_PATH@/assets/images/2015-htswapen.gif\" alt=\"Mobirise\" title=\"\">\n                    </a>\n                </div>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-4\">\n                <h5 class=\"pb-3\">\n                    Address\n                </h5>\n                <p class=\"mbr-text\">C/o Strand &amp; College Road<br>Labiance<br>Bellville</p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-4\">\n                <h5 class=\"pb-3\">\n                    Contacts\n                </h5>\n                <p class=\"mbr-text\">\n                    Email:info@bellvilleths.co.za<br>Phone: 021 948 6951<br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-4\">\n                <h5 class=\"pb-3\">\n                    Links\n                </h5>\n                <p class=\"mbr-text\"><a href=\"https://www.bths.co.za\" target=\"_blank\" class=\"text-white\">E-Platform</a><br>Apply now&nbsp;<br><a href=\"contactus.html\" class=\"text-white\">Contact us</a></p>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".copyright > p\">\n                        © Copyright 2019 Bellville Technical High School - All Rights Reserved. <br>Developed by G Conradie, powered by Mobirise</p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://web.facebook.com/htsbellvilleschool\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\" style=\"font-size: 35px; color: rgb(20, 157, 204); fill: rgb(20, 157, 204);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://www.bths.co.za\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"mbr-iconfont mbr-iconfont-social socicon-modelmayhem socicon\" style=\"font-size: 35px; color: rgb(15, 118, 153); fill: rgb(15, 118, 153);\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.youtube.com/c/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-youtube socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon=\"\" class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "footer1-n8",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "rkiaREG7lU",
-          "_anchor": "footer6-4t",
+          "_cid": "rlHKGFzQUR",
           "_protectedParams": [],
-          "_global": true,
-          "_once": true,
+          "_global": false,
+          "_once": false,
           "_params": {}
         }
       ]
@@ -23942,7 +24003,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "subjectchoice",
-        "order": 21
+        "order": 18
       },
       "components": [
         {
@@ -24566,7 +24627,7 @@
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "Acadcolours",
-        "order": 20
+        "order": 17
       },
       "components": [
         {
@@ -25073,7 +25134,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "History",
-        "order": 19
+        "order": 16
       },
       "components": [
         {
@@ -26024,7 +26085,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Page 45",
-        "order": 18
+        "order": 15
       },
       "components": [
         {
@@ -26465,7 +26526,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Leaderinme",
-        "order": 17
+        "order": 14
       },
       "components": [
         {
@@ -27052,7 +27113,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Importantdates",
-        "order": 16
+        "order": 13
       },
       "components": [
         {
@@ -27557,7 +27618,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Sportcolours",
-        "order": 14
+        "order": 12
       },
       "components": [
         {
@@ -28061,7 +28122,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "cricket",
-        "order": 13
+        "order": 11
       },
       "components": [
         {
@@ -28871,7 +28932,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Chess",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -29358,7 +29419,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "cricket2",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -30123,7 +30184,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Rugby",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -30853,7 +30914,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Sponsors",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -33667,7 +33728,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "NSC",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -34778,6 +34839,469 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        }
+      ]
+    },
+    "page58.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "try",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".navbar": {
+              "padding": ".5rem 0",
+              "background": "@menuBgColor",
+              "transition": "none",
+              "min-height": "77px"
+            },
+            ".navbar-dropdown.bg-color.transparent.opened": {
+              "background": "@menuBgColor"
+            },
+            "a": {
+              "font-style": "normal"
+            },
+            ".nav-item": {
+              "& span": {
+                "padding-right": "0.4em",
+                "line-height": "0.5em",
+                "vertical-align": "text-bottom",
+                "position": "relative",
+                "text-decoration": "none"
+              },
+              "& a": {
+                "display": "flex",
+                "align-items": "center",
+                "justify-content": "center",
+                "padding": "0.7rem 0 !important",
+                "margin": "0rem .65rem !important"
+              }
+            },
+            ".nav-item:focus, .nav-link:focus": {
+              "outline": "none"
+            },
+            ".btn": {
+              "padding": "0.4rem 1.5rem",
+              ".mbr-iconfont": {
+                "font-size": "1.6rem"
+              },
+              "display": "inline-flex",
+              "align-items": "center"
+            },
+            ".menu-logo": {
+              "margin-right": "auto",
+              ".navbar-brand": {
+                "display": "flex",
+                "margin-left": "5rem",
+                "padding": "0",
+                "transition": "padding .2s",
+                "min-height": "3.8rem",
+                "align-items": "center",
+                ".navbar-caption-wrap": {
+                  "display": "-webkit-flex",
+                  "-webkit-align-items": "center",
+                  "align-items": "center",
+                  "word-break": "break-word",
+                  "min-width": "7rem",
+                  "margin": ".3rem 0",
+                  ".navbar-caption": {
+                    "line-height": "1.2rem !important",
+                    "padding-right": "2rem"
+                  }
+                },
+                ".navbar-logo": {
+                  "font-size": "4rem",
+                  "transition": "font-size 0.25s",
+                  "& img": {
+                    "display": "flex"
+                  },
+                  ".mbr-iconfont": {
+                    "transition": "font-size 0.25s"
+                  }
+                }
+              }
+            },
+            ".navbar-toggleable-sm .navbar-collapse": {
+              "justify-content": "flex-end",
+              "-webkit-justify-content": "flex-end",
+              "padding-right": "5rem",
+              "width": "auto",
+              ".navbar-nav": {
+                "flex-wrap": "wrap",
+                "-webkit-flex-wrap": "wrap",
+                "padding-left": "0",
+                ".nav-item": {
+                  "-webkit-align-self": "center",
+                  "align-self": "center"
+                }
+              },
+              ".navbar-buttons": {
+                "padding-left": "0",
+                "padding-bottom": "0"
+              }
+            },
+            ".dropdown": {
+              ".dropdown-menu": {
+                "background": "@menuBgColor",
+                "display": "none",
+                "position": "absolute",
+                "min-width": "5rem",
+                "padding-top": "1.4rem",
+                "padding-bottom": "1.4rem",
+                "text-align": "left",
+                ".dropdown-item": {
+                  "width": "auto",
+                  "padding": "0.235em 1.5385em 0.235em 1.5385em !important",
+                  "&::after": {
+                    "right": "0.5rem"
+                  }
+                },
+                ".dropdown-submenu": {
+                  "margin": "0"
+                }
+              },
+              "&.open > .dropdown-menu": {
+                "display": "block"
+              }
+            },
+            ".navbar-toggleable-sm": {
+              "&.opened:after": {
+                "position": "absolute",
+                "width": "100vw",
+                "height": "100vh",
+                "content": "''",
+                "background-color": "rgba(0, 0, 0, 0.1)",
+                "left": "0",
+                "bottom": "0",
+                "transform": "translateY(100%)",
+                "-webkit-transform": "translateY(100%)",
+                "z-index": "1000"
+              }
+            },
+            ".navbar.navbar-short": {
+              "min-height": "60px",
+              "transition": "all .2s",
+              "& .navbar-toggler-right": {
+                "top": "20px"
+              },
+              "& .navbar-logo a": {
+                "font-size": "2.5rem !important",
+                "line-height": "2.5rem",
+                "transition": "font-size 0.25s",
+                "& .mbr-iconfont": {
+                  "font-size": "2.5rem !important"
+                },
+                "& img": {
+                  "height": "3rem !important"
+                }
+              },
+              "& .navbar-brand": {
+                "min-height": "3rem"
+              }
+            },
+            "button.navbar-toggler": {
+              "width": "31px",
+              "height": "18px",
+              "cursor": "pointer",
+              "transition": "all .2s",
+              "top": "1.5rem",
+              "right": "1rem",
+              "&:focus": {
+                "outline": "none"
+              },
+              ".hamburger span": {
+                "position": "absolute",
+                "right": "0",
+                "width": "30px",
+                "height": "2px",
+                "border-right": "5px",
+                "background-color": "@hamburgerColor",
+                "&:nth-child(1)": {
+                  "top": "0",
+                  "transition": "all .2s"
+                },
+                "&:nth-child(2)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(3)": {
+                  "top": "8px",
+                  "transition": "all .15s"
+                },
+                "&:nth-child(4)": {
+                  "top": "16px",
+                  "transition": "all .2s"
+                }
+              }
+            },
+            "nav.opened .hamburger span": {
+              "&:nth-child(1)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              },
+              "&:nth-child(2)": {
+                "-webkit-transform": "rotate(45deg)",
+                "transform": "rotate(45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(3)": {
+                "-webkit-transform": "rotate(-45deg)",
+                "transform": "rotate(-45deg)",
+                "transition": "all .25s"
+              },
+              "&:nth-child(4)": {
+                "top": "8px",
+                "width": "0",
+                "opacity": "0",
+                "right": "50%",
+                "transition": "all .2s"
+              }
+            },
+            ".collapsed": {
+              "&.navbar-expand": {
+                "flex-direction": "column"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (max-width: 991px)": {
+              ".navbar-expand": {
+                "flex-direction": "column"
+              },
+              "img": {
+                "height": "3.8rem !important"
+              },
+              ".btn": {
+                "display": "flex"
+              },
+              "button.navbar-toggler": {
+                "display": "block"
+              },
+              ".navbar-brand": {
+                "margin-left": "1rem !important"
+              },
+              ".navbar-toggleable-sm": {
+                "flex-direction": "column",
+                "-webkit-flex-direction": "column"
+              },
+              ".navbar-collapse": {
+                "display": "none !important",
+                "padding-right": "0 !important",
+                "&.collapsing,&.show": {
+                  "display": "block !important",
+                  ".navbar-nav": {
+                    "display": "block",
+                    "text-align": "center",
+                    ".nav-item": {
+                      "clear": "both",
+                      "& when (@showButtons = false)": {
+                        "&:last-child": {
+                          "margin-bottom": "1rem"
+                        }
+                      }
+                    }
+                  },
+                  ".navbar-buttons": {
+                    "text-align": "center",
+                    "&:last-child": {
+                      "margin-bottom": "1rem"
+                    }
+                  }
+                }
+              },
+              ".dropdown": {
+                ".dropdown-menu": {
+                  "width": "100%",
+                  "text-align": "center",
+                  "position": "relative",
+                  "opacity": "0",
+                  "display": "block",
+                  "height": "0",
+                  "visibility": "hidden",
+                  "padding": "0",
+                  "transition-duration": ".5s",
+                  "transition-property": "opacity,padding,height"
+                },
+                "&.open > .dropdown-menu": {
+                  "position": "relative",
+                  "opacity": "1",
+                  "height": "auto",
+                  "padding": "1.4rem 0",
+                  "visibility": "visible"
+                },
+                ".dropdown-submenu": {
+                  "left": "0",
+                  "text-align": "center",
+                  "width": "100%"
+                },
+                ".dropdown-toggle[data-toggle=\"dropdown-submenu\"]::after": {
+                  "margin-top": "0",
+                  "position": "inherit",
+                  "right": "0",
+                  "top": "50%",
+                  "display": "inline-block",
+                  "width": "0",
+                  "height": "0",
+                  "margin-left": ".3em",
+                  "vertical-align": "middle",
+                  "content": "\"\"",
+                  "border-top": ".30em solid",
+                  "border-right": ".30em solid transparent",
+                  "border-left": ".30em solid transparent"
+                }
+              }
+            },
+            "@media (min-width: 767px)": {
+              ".menu-logo": {
+                "flex-shrink": "0"
+              }
+            },
+            ".navbar-collapse": {
+              "flex-basis": "auto"
+            },
+            ".nav-link:hover, .dropdown-item:hover": {
+              "color": "@itemsHoverColor !important"
+            }
+          },
+          "_name": "menu1",
+          "_customHTML": "<section class=\"menu\" group=\"Menu\" plugins=\"DropDown, TouchSwipe\" always-top global once=\"menu\" not-draggable position-absolute>\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Show Logo\" name=\"showLogo\" checked>\n        <input type=\"range\" title=\"Logo Size\" inline name=\"logoSize\" min=\"3.8\" max=\"8\" step=\"0.1\" value=\"4.5\" condition=\"showLogo\">\n        <input type=\"checkbox\" title=\"Show Brand Name\" name=\"showBrand\">\n        <input type=\"checkbox\" title=\"Show Menu Items\" name=\"showItems\" checked>\n        <input type=\"color\" title=\"Items Hover Color\" name=\"itemsHoverColor\" value=\"#232323\" condition=\"showItems\">\n        <input type=\"checkbox\" title=\"Show Button(s)\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Sticky\" name=\"sticky\" checked>\n        <input type=\"checkbox\" title=\"Collapsed\" name=\"collapsed\">\n        <input type=\"checkbox\" title=\"Transparent\" name=\"transparent\">\n        <input type=\"color\" title=\"Hamburger Color\" name=\"hamburgerColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"menuBgColor\" value=\"#761111\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <nav class=\"navbar navbar-expand beta-menu navbar-dropdown align-items-center\" mbr-class=\"{'navbar-fixed-top': sticky,\n        'navbar-toggleable-sm': !collapsed,\n        'collapsed': collapsed,\n        'bg-color transparent': transparent}\">\n        <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n            <div class=\"hamburger\">\n                <span></span>\n                <span></span>\n                <span></span>\n                <span></span>\n            </div>\n        </button>\n        <div class=\"menu-logo\">\n            <div class=\"navbar-brand\">\n                <span mbr-if=\"showLogo\" class=\"navbar-logo\">\n                    <a href=\"https://mobirise.com\">\n                         <img src=\"@PROJECT_PATH@/assets/images/liezllogo-450x76.png\" alt=\"Mobirise\" mbr-style=\"{'height': logoSize + 'rem'}\" title>\n                    </a>\n                </span>\n                <span mbr-if=\"showBrand\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-caption-wrap\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove\"><a class=\"navbar-caption text-white\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\"></a></span>\n            </div>\n        </div>\n        <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n            <ul mbr-if=\"showItems\" mbr-menu class=\"navbar-nav nav-dropdown\" mbr-theme-style=\"display-4\" mbr-class=\"{'nav-right': !showButtons,'navbar-nav-top-padding': isPublish && !showBrand && !showLogo}\"><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"index.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>Home</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"overview.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-info mbr-iconfont mbr-iconfont-btn\"></span>Overview</a><div class=\"dropdown-menu\"><a class=\"text-white dropdown-item\" href=\"overview.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">About</a><a class=\"text-white dropdown-item\" href=\"index.html#witsec-custom-html-block-l\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Video</a><a class=\"text-white dropdown-item\" href=\"staff.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Staff</a><a class=\"text-white dropdown-item\" href=\"terrainplan.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Terrain Map<br></a><a class=\"text-white dropdown-item\" href=\"overview.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Admissions</a><a class=\"text-white dropdown-item\" href=\"conduct.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Code of Conduct</a><a class=\"text-white dropdown-item\" href=\"history.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">History</a><a class=\"text-white dropdown-item\" href=\"leaderinme.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">The Leader in Me</a><a class=\"text-white dropdown-item\" href=\"sponsors.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Sponsors</a><a class=\"text-white dropdown-item\" href=\"learners.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Learners</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"academic.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-image-gallery mbr-iconfont mbr-iconfont-btn\"></span>\n                        Academic</a><div class=\"dropdown-menu\"><a class=\"text-white dropdown-item\" href=\"academic.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Subjects</a><a class=\"text-white dropdown-item\" href=\"subjectchoice.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Subject Choices</a><a class=\"text-white dropdown-item\" href=\"achievements.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Achievements</a><a class=\"text-white dropdown-item\" href=\"acadcolours.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Academic Colours</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"sport.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-extension mbr-iconfont mbr-iconfont-btn\"></span>Sport<br></a><div class=\"dropdown-menu\"><a class=\"text-white dropdown-item\" href=\"sport.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Disciplines</a><a class=\"text-white dropdown-item\" href=\"sport.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Achievements</a><a class=\"text-white dropdown-item\" href=\"sportcolours.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Sport Colours</a></div></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"culture.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>Culture</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"media.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span>Media</a><div class=\"dropdown-menu\"><a class=\"text-white dropdown-item\" href=\"media.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Photos</a><a class=\"text-white dropdown-item\" href=\"publications.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Publications</a><a class=\"text-white dropdown-item\" href=\"podradio.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Podradio</a><a class=\"text-white dropdown-item\" href=\"faceboo.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Facebook News Feed</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link text-white dropdown-toggle\" href=\"mediaevents.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mobi-mbri mobi-mbri-alert mbr-iconfont mbr-iconfont-btn\"></span>Schedule</a><div class=\"dropdown-menu\"><a class=\"text-white dropdown-item\" href=\"mediaevents.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Events</a><a class=\"text-white dropdown-item\" href=\"planning.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">Calender</a><a class=\"text-white dropdown-item\" href=\"importantdates.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">Important Dates</a><a class=\"text-white dropdown-item\" href=\"testsexams.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">March Tests</a><a class=\"text-white dropdown-item\" href=\"NSC.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\" aria-expanded=\"false\">NSC Time Table</a></div></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"downloads1.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-down mbr-iconfont mbr-iconfont-btn\"></span>\n                        Downloads</a></li><li class=\"nav-item\">\n                    <a class=\"nav-link link text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        </a>\n                </li>\n                <li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"contactus.html\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\"><span class=\"mbri-globe mbr-iconfont mbr-iconfont-btn\"></span>Contact Us</a></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        </a></li><li class=\"nav-item\"><a class=\"nav-link link text-white\" href=\"https://mobirise.com\" data-app-selector=\".nav-link,.dropdown-item\" data-app-placeholder=\"Type Text\">\n                        </a></li></ul>\n            <div mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" class=\"navbar-buttons mbr-section-btn\"><a class=\"btn btn-sm btn-primary\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Text\">\n                    <span class=\"mbri-save mbr-iconfont mbr-iconfont-btn \" data-app-selector=\".mbr-iconfont-btn\"></span>\n                    Try It Now!\n                </a></div>\n        </div>\n    </nav>\n</section>",
+          "_cid": "qTkzRZLJNu",
+          "_protectedParams": [],
+          "_global": true,
+          "_once": "menu",
+          "_params": {},
+          "_anchor": "menu1-n4"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value",
+              "& when (@gradientBg)": {
+                "background": "linear-gradient(45deg, @bg-value, @color2)"
+              }
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            "& when (@reverseContent)": {
+              ".media-container-row": {
+                "flex-direction": "row-reverse",
+                "-webkit-flex-direction": "row-reverse"
+              }
+            },
+            ".mbr-figure": {
+              "@media (min-width: 992px)": {
+                "padding-right": "4rem",
+                "& when (@reverseContent)": {
+                  "padding-right": "0",
+                  "padding-left": "4rem"
+                }
+              },
+              "@media (max-width: 991px)": {
+                "padding-bottom": "3rem"
+              }
+            },
+            ".mbr-text": {
+              "@media (max-width: 767px)": {
+                "text-align": "center"
+              }
+            }
+          },
+          "_name": "header3",
+          "_customHTML": "<section class=\"header3\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n    \n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"140\">\n        <input type=\"checkbox\" title=\"Media On Left/Right\" name=\"reverseContent\" checked>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/aaagate-1142x703.jpg\" selected parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#149dcc\">\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\" checked>\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#232323\" condition=\"gradientBg && bg.type == 'color'\">\n        \n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#0b1466\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/bthschange-960x540.jpg\" alt=\"Mobirise\" title>\n            </div>\n\n            <div class=\"media-content\">\n                <h1 class=\"mbr-section-title mbr-white pb-3 mbr-fonts-style\" mbr-if=\"showTitle\" mbr-theme-style=\"display-1\">\n                    Intro with Image\n                </h1>\n                <h3 class=\"mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style\" mbr-if=\"showSubTitle\" mbr-theme-style=\"display-2\">\n                    Beautiful mobile websites\n                </h3>\n                <div class=\"mbr-section-text mbr-white pb-3 \">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\" mbr-theme-style=\"display-5\">\n                        Full width intro with image background, color overlay and a picture on the left. You can easily change the size of image in block parameters.\n                    </p>\n                </div>\n                <div class=\"mbr-section-btn\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\" mbr-buttons mbr-theme-style=\"display-4\">\n                    <a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\">LEARN MORE</a>\n                    <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.co\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_cid": "rlFrtrh5wA",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header3-n7"
         }
       ]
     }
